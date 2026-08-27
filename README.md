@@ -21,7 +21,7 @@ Execute the C Program for the desired output.
 # PROGRAM:
 
 ## Write a C program that illustrates two processes communicating using shared memory.
-
+```python
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -131,9 +131,7 @@ int main() {
         exit(EXIT_SUCCESS);
     }
 }
-
-
-
+```
 ## OUTPUT
 ![output1](output61.png)
 ![output2](output62.png)
